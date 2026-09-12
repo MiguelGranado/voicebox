@@ -1,3 +1,15 @@
+<!-- ===== ULAMANDER / MIGUEL GRANADOS FORK BANNER ===== -->
+<p align="center">
+  <a href="https://github.com/MiguelGranado/ulamander-voice-lab"><img src="https://img.shields.io/badge/Part_of-Ulamander_Voice_Lab-fe702d?style=for-the-badge&labelColor=0d1117" alt="Ulamander Voice Lab"/></a>
+  <a href="https://github.com/MiguelGranado"><img src="https://img.shields.io/badge/Maintained_on_fork_by-Miguel_Granados-0d1117?style=for-the-badge&logo=github" alt="Miguel"/></a>
+  <a href="https://github.com/MiguelGranado/voicebox/stargazers"><img src="https://img.shields.io/github/stars/MiguelGranado/voicebox?style=for-the-badge&color=fe702d&labelColor=0d1117" alt="Stars"/></a>
+</p>
+
+> **Fork note:** Upstream is [`jamiepine/voicebox`](https://github.com/jamiepine/voicebox). This fork is tracked by **Miguel Granados (Ulamander)** for voice R&amp;D.  
+> If you use it — please also **⭐ star** [`ulamander-voice-lab`](https://github.com/MiguelGranado/ulamander-voice-lab) (the curated map of my voice stack).
+
+---
+
 <p align="center">
   <img src=".github/assets/icon-dark.webp" alt="Voicebox" width="120" height="120" />
 </p>
